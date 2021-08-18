@@ -10,7 +10,7 @@ Examples:
 - ...and others
 
 ## Pre-installations
-You can clone the repository git or download the zip file.
+You can clone the repository through the command line git or download the zip file.
 ```console
 git clone https://github.com/PurplePegasuss/factorial.git
 ```
