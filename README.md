@@ -17,7 +17,7 @@ You don't need to install any libraries & dependencies.
 - You can use any preferable IDE  as Jupyter, Colab, PyCharm and press "Run" button.
 - ... or you can open cmd (f.e. miniconda) and type:
 ```console
-python "main.py"
+python main.py
 ```
 ## How to see the result?
 The output is generated as the number in the command line.
