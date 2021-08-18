@@ -22,5 +22,6 @@ python main.py
 ```
 ## How to see the result?
 After entering the date,the output is generated as the number in the command line.
+##
 ![image](https://user-images.githubusercontent.com/56448851/129857802-f8b212a2-89ef-48a8-868a-1364e8555395.png)
 
