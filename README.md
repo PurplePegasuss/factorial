@@ -10,8 +10,7 @@ Examples:
 - ...and others
 
 ## Pre-installations
-You can clone the repository git or download the zip file.![image](https://user-images.githubusercontent.com/56448851/129858305-e2fc668c-f8a7-4909-be7d-7cddd5119af2.png)
-
+You can clone the repository git or download the zip file.
 To launch the .py file you need to install Python (v.3.0 or higher).
 You don't need to install any libraries & dependencies.
 
