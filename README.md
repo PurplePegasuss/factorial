@@ -11,6 +11,9 @@ Examples:
 
 ## Pre-installations
 You can clone the repository git or download the zip file.
+```console
+git clone https://github.com/PurplePegasuss/factorial.git
+```
 To launch the .py file you need to install Python (v.3.0 or higher).
 You don't need to install any libraries & dependencies.
 
